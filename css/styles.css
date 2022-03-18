@@ -68,5 +68,5 @@ input[type=checkbox] {
 }
 
 input[type=submit] {
-    color: var(--lt-blue);
+    background-color: var(--lt-blue);
 }
